@@ -1,0 +1,22 @@
+*{
+    background-color: beige;
+}
+
+.product-main-box{
+    width: 90%;
+    background-color: aquamarine;
+    margin:0 auto;
+}
+
+.product-left-side{
+    width: 30%;
+    float: left;
+    background-color: blue ;
+}
+
+.product-right-side{
+    width: 70%;
+    float: right;
+    background-color: brown;
+}
+
