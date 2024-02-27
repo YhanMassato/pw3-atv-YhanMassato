@@ -11,7 +11,7 @@
 .product-left-side{
     width: 30%;
     float: left;
-    background-color: blue ;
+    background-color: rgba(55, 55, 55, 0.2) ;
 }
 
 .product-right-side{
@@ -20,3 +20,42 @@
     background-color: brown;
 }
 
+.product-image{
+    width: 80%;
+    height: 300px;
+    background-image: url("../../img/img-placeholder.jpg");
+}
+
+.img-zoom-inst{
+
+}
+
+.divider{
+    border-bottom: 1px solid black;
+    width: 90%;
+    margin: 0 auto;
+}
+
+.light-title-text{
+
+}
+
+.product-author{
+
+}
+
+.author-link{
+
+}
+
+.text-divider{
+
+}
+
+.product-description{
+
+}
+
+.product-description-text{
+
+}
